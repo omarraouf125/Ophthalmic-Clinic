@@ -54,6 +54,7 @@
     <Compile Include="Admin.Designer.cs">
       <DependentUpon>Admin.cs</DependentUpon>
     </Compile>
+    <Compile Include="CodeFile1.cs" />
     <Compile Include="Controller.cs" />
     <Compile Include="CostReport.cs">
       <SubType>Form</SubType>
